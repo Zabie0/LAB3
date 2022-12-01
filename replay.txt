@@ -1,0 +1,101 @@
+[0;34m
+Formation of the Blue team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+[0;31m
+Formation of the Red team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+[0m
+----------------------------Round №1----------------------------
+[0;34mBlue team turn:
+[0;34mAttack Droid give 19 damage to Attack Droid[0m
+[0;31m
+Red team turn:
+[0;33mCritical hit![0m
+[0;31mAttack Droid give 30 damage to Attack Droid[0m
+[0;31m
+Red team:
+Attack Droid
+Health: 51
+Maximal damage: 20
+Energy: 17
+
+[0;34m
+Blue team:
+Attack Droid
+Health: 40
+Maximal damage: 20
+Energy: 25
+
+[0m
+----------------------------Round №2----------------------------
+[0;34mBlue team turn:
+[0;34mAttack Droid give 15 damage to Attack Droid[0m
+[0;31m
+Red team turn:
+[0;31mAttack Droid give 8 damage to Attack Droid[0m
+[0;31m
+Red team:
+Attack Droid
+Health: 36
+Maximal damage: 20
+Energy: 12
+
+[0;34m
+Blue team:
+Attack Droid
+Health: 32
+Maximal damage: 20
+Energy: 20
+
+[0m
+----------------------------Round №3----------------------------
+[0;34mBlue team turn:
+[0;34mAttack Droid give 15 damage to Attack Droid[0m
+[0;31m
+Red team turn:
+[0;31mAttack Droid give 8 damage to Attack Droid[0m
+[0;31m
+Red team:
+Attack Droid
+Health: 21
+Maximal damage: 20
+Energy: 7
+
+[0;34m
+Blue team:
+Attack Droid
+Health: 24
+Maximal damage: 20
+Energy: 15
+
+[0m
+----------------------------Round №4----------------------------
+[0;34mBlue team turn:
+[0;33mCritical hit![0m
+[0;30mThe Attack Droid was killed![0m
+[0;34mAttack Droid give 30 damage to Attack Droid[0m
+[0;31m
+Red team turn:
+[0;37mTeam is empty
+[0m
+[0;31m
+Red team:
+[0;36mEmpty[0m
+[0;34m
+Blue team:
+Attack Droid
+Health: 24
+Maximal damage: 20
+Energy: 2
+
+[1;34m
+Blue team win
+[0m
